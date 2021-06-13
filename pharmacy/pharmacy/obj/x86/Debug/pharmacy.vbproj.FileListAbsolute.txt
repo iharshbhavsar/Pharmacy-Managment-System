@@ -1,0 +1,40 @@
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.vbproj.GenerateResource.Cache
+C:\TYBCA14\pharmacy\pharmacy\bin\Debug\pharmacy.exe
+C:\TYBCA14\pharmacy\pharmacy\bin\Debug\pharmacy.pdb
+C:\TYBCA14\pharmacy\pharmacy\bin\Debug\pharmacy.xml
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.exe
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.xml
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.pdb
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.sales.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.medicines.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.purchase.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.MDIParent1.resources
+C:\TYBCA14\pharmacy\pharmacy\bin\Debug\pharmacy.exe.config
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.SalesReport.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.PurchaseReport.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.MedicineReport.resources
+C:\Users\dc\Desktop\finalbackup\TYBCA14\pharmacy\pharmacy\bin\Debug\pharmacy.exe.config
+C:\Users\dc\Desktop\finalbackup\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.exe
+C:\Users\dc\Desktop\finalbackup\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.xml
+C:\Users\dc\Desktop\finalbackup\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.pdb
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\bin\Debug\pharmacy.exe.config
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\bin\Debug\pharmacy.exe
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\bin\Debug\pharmacy.pdb
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\bin\Debug\pharmacy.xml
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.vbproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.MedicineReport.resources
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.PurchaseReport.resources
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.SalesReport.resources
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.MDIParent1.resources
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.sales.resources
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.medicines.resources
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\WindowsApplication1.purchase.resources
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.vbproj.GenerateResource.cache
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.vbproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.exe
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.xml
+C:\Users\harsh\OneDrive\Desktop\COLLEGE\BCA\finalproject 14\TYBCA14\pharmacy\pharmacy\obj\x86\Debug\pharmacy.pdb

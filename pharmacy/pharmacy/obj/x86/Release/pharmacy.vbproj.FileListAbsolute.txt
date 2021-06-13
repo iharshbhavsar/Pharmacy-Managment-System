@@ -1,0 +1,14 @@
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\WindowsApplication1.Login.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\WindowsApplication1.MDIParent1.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\WindowsApplication1.sales.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\WindowsApplication1.medicines.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\WindowsApplication1.purchase.resources
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\pharmacy.vbproj.GenerateResource.Cache
+C:\TYBCA14\pharmacy\pharmacy\bin\Release\pharmacy.exe.config
+C:\TYBCA14\pharmacy\pharmacy\bin\Release\pharmacy.exe
+C:\TYBCA14\pharmacy\pharmacy\bin\Release\pharmacy.pdb
+C:\TYBCA14\pharmacy\pharmacy\bin\Release\pharmacy.xml
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\pharmacy.exe
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\pharmacy.xml
+C:\TYBCA14\pharmacy\pharmacy\obj\x86\Release\pharmacy.pdb
